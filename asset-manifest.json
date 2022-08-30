@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/paragraph-generator/static/css/main.fb86bce3.chunk.css",
+    "main.js": "/paragraph-generator/static/js/main.b9b821eb.chunk.js",
+    "main.js.map": "/paragraph-generator/static/js/main.b9b821eb.chunk.js.map",
+    "runtime-main.js": "/paragraph-generator/static/js/runtime-main.d50e46a9.js",
+    "runtime-main.js.map": "/paragraph-generator/static/js/runtime-main.d50e46a9.js.map",
+    "static/js/2.d8a71053.chunk.js": "/paragraph-generator/static/js/2.d8a71053.chunk.js",
+    "static/js/2.d8a71053.chunk.js.map": "/paragraph-generator/static/js/2.d8a71053.chunk.js.map",
+    "index.html": "/paragraph-generator/index.html",
+    "precache-manifest.e8ae203982d8ff1866c4062a3d39a6e5.js": "/paragraph-generator/precache-manifest.e8ae203982d8ff1866c4062a3d39a6e5.js",
+    "service-worker.js": "/paragraph-generator/service-worker.js",
+    "static/css/main.fb86bce3.chunk.css.map": "/paragraph-generator/static/css/main.fb86bce3.chunk.css.map",
+    "static/js/2.d8a71053.chunk.js.LICENSE.txt": "/paragraph-generator/static/js/2.d8a71053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d50e46a9.js",
+    "static/js/2.d8a71053.chunk.js",
+    "static/css/main.fb86bce3.chunk.css",
+    "static/js/main.b9b821eb.chunk.js"
+  ]
+}
